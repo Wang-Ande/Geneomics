@@ -2,3 +2,14 @@
 .Rhistory
 .RData
 .Ruserdata
+
+# 特定文件夹
+01_data/
+03_result/
+
+
+
+# 特定拓展后缀文件
+*.csv
+*.xls
+*.xlsx
